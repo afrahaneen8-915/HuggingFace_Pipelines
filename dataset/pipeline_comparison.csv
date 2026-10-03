@@ -1,0 +1,5 @@
+Pipeline,Task,Output
+Sentiment Analysis,Classify text sentiment,POSITIVE
+Summarization,Summarize text,"Artificial Intelligence is transforming many industries such as healthcare, education and finance. It helps organizations automate tasks, analyze large amounts of data, and make better decisions."
+Translation,Translate English to French,L'intelligence artificielle transforme de nombreuses industries.
+Question Answering,Answer question from context,Artificial Intelligence
